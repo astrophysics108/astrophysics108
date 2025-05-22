@@ -1,1 +1,1 @@
-hi!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Tektur&weight=500&duration=3000&pause=200&color=BE85F7&width=435&lines=Hi!+I'm+Delana!;I+love+physics%2C+and+I+love+to+learn!+%F0%9F%9A%80;Welcome...+to+my+github!+:D)](https://git.io/typing-svg)
